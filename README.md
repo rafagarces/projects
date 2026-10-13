@@ -4,7 +4,7 @@ A few personal projects I'm working on.
 
 ## Sanzo Wada Color Combinations
 
-Upload a clothing photo, choose its color, and explore matching combinations from the Sanzo Wada Color Dictionary, with illustrated outfits.
+Pick a color or upload a photo and explore matching color combinations from the Sanzo Wada Color Dictionary.
 
 [Open the app](https://sanzo-wada-colores.vercel.app/)
 
