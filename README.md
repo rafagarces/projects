@@ -2,11 +2,11 @@
 
 A few personal projects I'm working on.
 
-## Sanzo Wada Color Combinations
+## Colorcitos
 
-Pick a color or upload a photo and explore matching color combinations from the Sanzo Wada Color Dictionary.
+Pick a color or upload a photo and explore matching color combinations from the Sanzo Wada color dictionary, with drawn outfits to wear them.
 
-[Open the app](https://sanzo-wada-colores.vercel.app/)
+[Open the app](https://colorcitos.vercel.app/) · [Case study](https://rafagarces.com/projects/sanzo-wada-colors/)
 
 ## Bono Alquiler Joven
 
