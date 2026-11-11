@@ -19,3 +19,9 @@ An interactive guide to the Bono Alquiler Joven in the Valencian Community.
 A different paper-cutout house every time you open it. Browse a gallery of houses, or cut out your own from colored paper.
 
 [Open the site](https://rafagarces.github.io/una-persona-una-casa/)
+
+## Formas de lucha
+
+A gallery of posters for social struggles. Download one to print, or upload your own.
+
+[Open the site](https://formasdelucha.org/)
