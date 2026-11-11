@@ -25,3 +25,9 @@ A different paper-cutout house every time you open it. Browse a gallery of house
 A gallery of posters for social struggles. Download one to print, or upload your own.
 
 [Open the site](https://formasdelucha.org/)
+
+## Hi, how are you?
+
+Say how you feel with a face and a color, and ask someone how they are with a one-time link. An anonymous map blends everyone's colors.
+
+[Open the app](https://hi-how-are-you.pages.dev/) · [Case study](https://rafagarces.com/projects/hi-how-are-you/)
