@@ -1,6 +1,6 @@
 # Projects
 
-A few personal projects I'm working on.
+A few personal projects I'm working on. More about me and the case studies at [rafagarces.com](https://rafagarces.com/).
 
 ## Colorcitos
 
@@ -12,19 +12,19 @@ Pick a color or upload a photo and explore matching color combinations from the 
 
 An interactive guide to the Bono Alquiler Joven in the Valencian Community.
 
-[Open the guide](https://bono-alquiler-joven.vercel.app/)
+[Open the guide](https://bono-alquiler-joven.vercel.app/) · [Case study](https://rafagarces.com/projects/bono-alquiler-joven/)
 
 ## Una persona, una casa
 
 A different paper-cutout house every time you open it. Browse a gallery of houses, or cut out your own from colored paper.
 
-[Open the site](https://rafagarces.github.io/una-persona-una-casa/)
+[Open the site](https://rafagarces.github.io/una-persona-una-casa/) · [Case study](https://rafagarces.com/projects/una-persona-una-casa/)
 
 ## Formas de lucha
 
 A gallery of posters for social struggles. Download one to print, or upload your own.
 
-[Open the site](https://formasdelucha.org/)
+[Open the site](https://formasdelucha.org/) · [Case study](https://rafagarces.com/projects/formas-de-lucha/)
 
 ## Hi, how are you?
 
